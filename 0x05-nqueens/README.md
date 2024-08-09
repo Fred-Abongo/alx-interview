@@ -37,6 +37,7 @@ All your files must be executable
 Tasks
 0. N queens
 mandatory
+Score: 0.00% (Checks completed: 0.00%)
 
 Chess grandmaster Judit Polgár, the strongest female chess player of all time
 
