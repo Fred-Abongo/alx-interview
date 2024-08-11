@@ -1,3 +1,4 @@
+
 0x06. Star Wars API
 Algorithm
 API
@@ -59,6 +60,7 @@ $ export NODE_PATH=/usr/lib/node_modules
 Tasks
 0. Star Wars Characters
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a script that prints all characters of a Star Wars movie:
 
 The first positional argument passed is the Movie ID - example: 3 = “Return of the Jedi”
